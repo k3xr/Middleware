@@ -1,0 +1,6 @@
+module HolaMundoApp {
+
+	interface Hola{
+		string decirHola();
+	};
+};
